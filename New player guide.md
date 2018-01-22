@@ -5,13 +5,7 @@
 
 <h1 id="campaign-2---player-guide">Campaign 2 - Player Guide</h1>
 <blockquote>
-<p>“Why do I live here? Why live in the most regimented, law-abiding,<br>
-oppressive city this side of Bloodsworn Vale? Answer’s simple, mate.<br>
-With the Sable Company flapping around in the clouds, Hellknights<br>
-stomping around on the streets, and the Korvosan Guard caught between<br>
-them, no one knows who’s got jurisdiction over what. You just gotta<br>
-know when to hide and know when to bribe. Now, you wanna buy this<br>
-magic dagger or not?”<br>
+<p>“Why do I live here? Why live in the most regimented, law-abiding,  oppressive city this side of Bloodsworn Vale? Answer’s simple, mate. With the Sable Company flapping around in the clouds, Hellknights stomping around on the streets, and the Korvosan Guard caught between them, no one knows who’s got jurisdiction over what. You just gotta know when to hide and know when to bribe. Now, you wanna buy this magic dagger or not?”<br>
 —<strong>Corb “Birdtongue” Meever</strong>, Cerulean Society Fence</p>
 </blockquote>
 <h2 id="campaign-summary">Campaign Summary</h2>
