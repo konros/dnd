@@ -62,6 +62,9 @@
 <li>Where is his/her family? Do they have any siblings? Close friends? Who is important to them?</li>
 <li>Describe a mannerism or quirk that your character has. If they’re a gambler, do they always have dice they carry? Do they have some kind of unfortunate verbal tic or speech impediment (shut up… I know I do asshole… don’t say it.)? Do they dress above or below their station? Is it obvious?</li>
 </ol>
+<h4 id="equipment">Equipment</h4>
+<p><img src="https://i.imgur.com/G6k6rJM.png" alt="enter image description here"></p>
+<p><img src="https://i.imgur.com/ibViMU6.png" alt="enter image description here"></p>
 <h2 id="homebrew">Homebrew</h2>
 <h3 id="core-rule-changes">Core Rule Changes</h3>
 <p><strong>Knowledge (Korvosa):</strong> Knowledge (Korvosa) is an intelligence based check. Unless you are from outside the city, your character is considered proficient with it. (Folk Hero, Hermit, and Outlander may or may not have it based on the case at hand.)</p>
