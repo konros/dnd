@@ -119,7 +119,11 @@ You get advantage on all Wisdom saves made to resist charm or compulsion effects
 <p>Once per day, you may draw a card from a Harrow deck you own. At any ONE time for the rest of that day, you may gain advantage on any d20 roll modified by the card’s suit. For example, if you drew a card from the suit of Wisdom, you may gain advantage on ONE Wisdom save or a Wisdom-based skill check. If you drew a card from the suit of Dexterity, you could gain advantage on ONE Initiative check or a Dexterity save. You may decide to use this ONE-time advantage roll after you make the initial roll, but you must do so before you know if the roll was a success or not.</p>
 <hr>
 <p><strong>Gambler</strong></p>
-<p>Spending countless hours winning and losing coin in ale-stained taverns has forged you into a consummate gambler and chance-seeking addict.</p>
+<blockquote>
+<p>Spending countless hours winning and losing coin in ale-stained<br>
+taverns has forged you into a consummate gambler and chance-seeking<br>
+addict.</p>
+</blockquote>
 <pre><code>**Prerequisites**
    None
 </code></pre>
@@ -132,7 +136,10 @@ You get advantage on all Wisdom saves made to resist charm or compulsion effects
 </ul>
 <hr>
 <p><strong>Rapid Drinker</strong></p>
-<p>Through a lifestyle of hard, competitive drinking, you’ve learned  how to quaff drinks at an incredibly accelerated pace.</p>
+<blockquote>
+<p>Through a lifestyle of hard, competitive drinking, you’ve learned  how<br>
+to quaff drinks at an incredibly accelerated pace.</p>
+</blockquote>
 <pre><code>**Prerequisites**
    None
 </code></pre>
