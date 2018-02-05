@@ -62,6 +62,33 @@
 <li>Where is his/her family? Do they have any siblings? Close friends? Who is important to them?</li>
 <li>Describe a mannerism or quirk that your character has. If they’re a gambler, do they always have dice they carry? Do they have some kind of unfortunate verbal tic or speech impediment (shut up… I know I do asshole… don’t say it.)? Do they dress above or below their station? Is it obvious?</li>
 </ol>
+<h4 id="dnd-improv-tips">DnD Improv Tips</h4>
+<ul>
+<li>
+<p><strong>Yes-And</strong>: Simply put, say ‘yes’ to the ideas put forth by your team. Accept them. Invest in them. Build on them and put your own spin on them.</p>
+</li>
+<li>
+<p><strong>Give-and-Take</strong>: Letting your teammates shine, making sure that each player gets to contribute as much as they’d like. Share the focus and make sure you don’t hog the <s>stage</s> story.</p>
+</li>
+<li>
+<p><strong>Chivalry</strong>: Don’t cling to your own ideas. Dare to give up control. Dare to be changed by the DM and other players’ ideas.</p>
+</li>
+<li>
+<p><strong>Gifting</strong>: Endowing your teammates’ characters with interesting qualities, embellishing them by bestowing them with details, traits, and other specifics.</p>
+</li>
+<li>
+<p><strong>Take Care of Yourself</strong>: While staying chivalrous, make sure to have a strong <em>point of view</em>. This perspective will be a crutch at every moment where you have to decide what the character would do. It keeps the story alive and moving forward.</p>
+</li>
+<li>
+<p><strong>Edit</strong>: We don’t need to see every detail of every scene. Get comfortable with jumping ahead in time or place. There’s no need to wallow in the details of every step between points A and B.</p>
+</li>
+<li>
+<p><strong>Truthfulness</strong>: The story is infinitely more fulfilling when the characters act with honesty, like real, 3-dimensional beings.</p>
+</li>
+<li>
+<p><strong>Status</strong>: Status is your <em>character’s</em> self esteem. It is not your own. Get okay with your character losing sometimes if it makes the story better (it will). Gaining / losing status is story fuel.</p>
+</li>
+</ul>
 <h4 id="equipment">Equipment</h4>
 <p><img src="https://i.imgur.com/G6k6rJM.png" alt="enter image description here"></p>
 <p><img src="https://i.imgur.com/ibViMU6.png" alt="enter image description here"></p>
