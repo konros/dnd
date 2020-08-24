@@ -4,6 +4,7 @@
 ---
 
 <h1 id="zeitgeist---campaign-3---new-player-guide">Zeitgeist - Campaign 3 - New Player Guide</h1>
+<p><img src="https://www.dropbox.com/s/uayupif8k8g9hj8/title.PNG?raw=1" alt="Splash"></p>
 <p>Steam and soot darken the skies above the city of Flint, and winds sweeping across its majestic harbor blow the choking products of industrial forges into the fey-rainforests that dot its knife-toothed mountains. Since the earliest ages when the people of Risur founded this city, they feared the capricious beings that hid in those fog-shrouded peaks, but now, as the march of progress and the demands of national defense turn Flint into a garden for artifice and technology, the old faiths and rituals that kept the lurkers of the woods at bay are being abandoned.</p>
 <p>The Unseen Court, the Great Hunt, and the many spirits of the land long ago conquered by Risur’s kings no longer receive tribute, but they cannot enter these new cities of steam and steel to demand their tithe. The impoverished workers who huddle in factory slums fear monsters of a different breed, shadowy children of this new urban labyrinth. Even their modern religions have no defenses against these fiends.</p>
 <p>Times are turning. The skyseers — Risur’s folk prophets since their homeland’s birth — witness omens in the starry wheels of heaven, and they warn that a new age is nigh. But what they cannot foresee, hidden beyond the steam and soot of the night sky, is the face of this coming error the spirit of the next age. The <em>Zeitgeist</em>.</p>
