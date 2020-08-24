@@ -74,10 +74,39 @@ surveillance to catch smugglers and traitors, and even espionage or assassinatio
 <li>Where is his/her family? Do they have any siblings? Close friends? Who is important to them?</li>
 <li>Describe a mannerism or quirk that your character has. If they’re a gambler, do they always have dice they carry? Do they have some kind of unfortunate verbal tic or speech impediment? Do they dress above or below their station? Is it obvious?</li>
 </ol>
+<h2 id="role-playing---what-i-expect">Role Playing - What I Expect</h2>
+<ul>
+<li>
+<p><strong>Yes-And</strong>: Simply put, say ‘yes’ to the ideas put forth by your team. Accept them. Invest in them. Build on them and put your own spin on them.</p>
+</li>
+<li>
+<p><strong>Give-and-Take</strong>: Letting your teammates shine, making sure that each player gets to contribute as much as they’d like. Share the focus and make sure you don’t hog the <s>stage</s> story.</p>
+</li>
+<li>
+<p><strong>Chivalry</strong>: Don’t cling to your own ideas. Dare to give up control. Dare to be changed by the DM and other players’ ideas.</p>
+</li>
+<li>
+<p><strong>Gifting</strong>: Endowing your teammates’ characters with interesting qualities, embellishing them by bestowing them with details, traits, and other specifics.</p>
+</li>
+<li>
+<p><strong>Take Care of Yourself</strong>: While staying chivalrous, make sure to have a strong <em>point of view</em>. This perspective will be a crutch at every moment where you have to decide what the character would do. It keeps the story alive and moving forward.</p>
+</li>
+<li>
+<p><strong>Edit</strong>: We don’t need to see every detail of every scene. Get comfortable with jumping ahead in time or place. There’s no need to wallow in the details of every step between points A and B.</p>
+</li>
+<li>
+<p><strong>Truthfulness</strong>: The story is infinitely more fulfilling when the characters act with honesty, like real, 3-dimensional beings.</p>
+</li>
+<li>
+<p><strong>Status</strong>: Status is your <em>character’s</em> self esteem. It is not your own. Get okay with your character losing sometimes if it makes the story better (it will). Gaining/losing status is story fuel.</p>
+</li>
+</ul>
 <h2 id="character-themes">Character Themes</h2>
 <p>Choose one of the nine themes below to provide a quick hook to link your character to the campaign. Your theme is in addition to your race, class, and background. It grants you a bonus feat.</p>
 <h3 id="docker">Docker</h3>
-<p><em><strong>Bohemian working-class artist or performer</strong></em></p>
+<blockquote>
+<p>Bohemian working-class artist or performer</p>
+</blockquote>
 <p>Flint’s industrial docks — with their unusual conflux of peasant workers, educated engineers, and constantly-arriving refugees from the wars in the border states between Danor and Drakr — have in the past decade given birth to an unorthodox social movement. Graffiti artists brighten soot-cloaked warehouses with colorful murals and boastful self-portraits. Dancers and musicians bolster moods in breezy bars, while amateur philosophers giddy on fey pepper entertain drunken teamsters with humorous moral puzzles that often mock public figures.</p>
 <p>Occasionally these popular artists, called dockers, get it in their heads to start a riot or get a tad too precise with their criticism. The dockers and the city police have each taken their hits in these confrontations, and tensions grow higher with every accidental death, but for now Roland Stanfield, the city governor of Flint, seems to have a soft spot for these tepid anarchists.</p>
 <h4 id="playing-a-docker">Playing a Docker</h4>
@@ -88,7 +117,9 @@ surveillance to catch smugglers and traitors, and even espionage or assassinatio
 character uses this ability, he or she must take a short or long rest before doing so again.</p>
 <p>Additionally, once per day as a bonus action you can shout a line from an inspiring song to grant an ally a Bardic Inspiration die, a d6. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level. Except for the limited use, this functions as the Bardic Inspiration feature.</p>
 <h3 id="eschatologist">Eschatologist</h3>
-<p><em><strong>Philosopher devoted to the proper endingsof things.</strong></em></p>
+<blockquote>
+<p>Philosopher devoted to the proper endings of things</p>
+</blockquote>
 <p>The Heid Eschatol movement began among the dwarves of Drakr, after the scholar Vlendam Heid published a treatise on the myths of his<br>
 nation and how they continued to influence modern perceptions. The book captured the culture’s consciousness, particularly a section that<br>
 used the legend of the Lost Riders to explain the Drakran tradition of defining civilizations and eras by how they end. In the three decades<br>
@@ -105,8 +136,10 @@ a literal imminent end of the world, with most adherents simply appreciating the
 <p>At the start of your turn, creatures in the zone take 1d6 cold damage. This increases to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level. Creatures in the zone cannot heal or gain temporary hit points. Since you manifested this fragment of the world’s icy end, you are affected by the zone even if you are not inside it, and you cannot reduce the damage this power deals to you by any means. Other creatures’ resistances and immunities can still protect them.</p>
 <p>Once you manifest this zone, you cannot use it again until you complete a long rest.</p>
 <h3 id="gunsmith">Gunsmith</h3>
-<p><em><strong>Designer and wielder of custom firearms.</strong></em><br>
-Knowledge of fusils — the cylindrical weapons that use explosive alchemical reactions to propel bullets at deadly speeds — has existed for<br>
+<blockquote>
+<p>Designer and wielder of custom firearms</p>
+</blockquote>
+<p>Knowledge of fusils — the cylindrical weapons that use explosive alchemical reactions to propel bullets at deadly speeds — has existed for<br>
 centuries, but these weapons were considered inferior to existing magical attacks, which were more accurate and had less risk of accidental<br>
 death. Only after the Great Malice did the Danoran military begin to refine and improve fusils. The latest innovations in these weapons,<br>
 now commonly called “guns,” have led to their spread into Risur and Drakr, where industrial production helps equip armies with firepower on par with a well-trained sorcerer.</p>
@@ -120,7 +153,9 @@ now commonly called “guns,” have led to their spread into Risur and Drakr, w
 <p>Likewise, you can craft target pistols, rifled carbines, or rifled muskets by paying half their price for raw materials, then spending a day for every 5 gp of total price to craft the item from scratch. Or you can take a normal firearm, spend 25 gp on a rifling kit, and successfully make a DC 10 Intelligence check to upgrade the weapon in a single day. If you fail this check, the weapon is ruined.</p>
 <p>Whenever you take a long rest, choose two firearms in your possession to maintain. Those weapons cannot misfire for 24 hours</p>
 <h3 id="martial-scientist">Martial Scientist</h3>
-<p><em><strong>Educated and Analytical Warrior.</strong></em></p>
+<blockquote>
+<p>Educated and Analytical Warrior.</p>
+</blockquote>
 <p>In the war academies of Danor, students speak of combat like a science. Their curriculum involves not merely practicing forms and maneuvers, but writing theses about renowned warriors, or crafting and defending theorems regarding the mechanics of swordplay. The normally reserved Danorans honor the graduates of these battle colleges like other nations honor great poets and sculptors. As those warriors have proven the efficacy of their innovative techniques, the sentiment has spread throughout Lanjyr, and other nations have founded similar schools.</p>
 <p>Any brute can hurl a spear or hack through a ribcage, but students of the war academies bring reason to the savagery of war. Often rising to high military ranks, these scholars of battle study anatomy and perform autopsies to learn vulnerabilities of the body, learn physical theorems that underlie the most effective angles of attack and defense, and take time to ponder the psychological and sociological considerations of mortal conflict — from the vast scope and human cost of an invasion, down to the emotional resonance and cultural significance of specific sword techniques through history.</p>
 <h4 id="playing-a-martial-scientist">Playing a Martial Scientist</h4>
@@ -136,7 +171,9 @@ an enemy ten feet away might be hard (DC 20).</p>
 <p>The GM should refer to the core rules for guidelines on the effects of improvised attacks. Circumstances will dictate how many foes are affected, how much damage is dealt, and whether any conditions can be applied (such as prone or blinded), but generally this should do at least “setback” damage.</p>
 <p>After you use experimental strike you cannot use it again until you finish a short or long rest.</p>
 <h3 id="skyseer">Skyseer</h3>
-<p><em><strong>Folk prophet who see the futures in the stars</strong></em></p>
+<blockquote>
+<p>Folk prophet who see the futures in the stars</p>
+</blockquote>
 <p>Truly ancient lore suggests that once the mortal races were able to travel to the stars with the aid of lost magic, much like demons and angels can be briefly summoned into this world. But for the full length of remembered history, the heavens have been nearly inscrutable. The druids, used to thinking in long terms of seasons, years, and the lifespan of trees, were the first to notice subtle connections between the movements of stars and the affairs of this world. They too were first to learn how to step through the veils that lead to the Dreaming or the Bleak Gate, and without their aid King Kelland could never have defeated the fey titans.</p>
 <p>For over a thousand years, the druids would gaze into the sky night after night, awaiting dreams that would grant revelations of the future. These seers, by guiding journeyers and heroes with their visions, averted many catastrophes. When the Second Victory led to Srasama’s fall, the skyseers read the signs and helped hundreds of eladrin women flee their homeland so they could avoid genocide.</p>
 <p>In the past few centuries, however, the many orders and factions of skyseers in Risur have struggled to divine much of import from the stars. Their visions, never precise or clear to begin with, failed to foresee the rise of Danor’s industry, failed to avert scores of natural disasters and man-made tragedies. The people of Risur still go through the motions of skyseer rituals, but the old druids’ influence has faded. Few young people today aspire to join their once-prestigious ranks.</p>
@@ -148,8 +185,10 @@ an enemy ten feet away might be hard (DC 20).</p>
 <p>After using this ability you must take a short or long rest before you can use it again.</p>
 <p>As part of a long rest during which the night sky is visible, you may focus your mind on the future and receive a prophetic dream regarding one question. Upon completion of your rest you awaken with insights into the future as though you had cast a divination spell regarding a task you plan to take the following day.</p>
 <h3 id="spirit-medium">Spirit Medium</h3>
-<p><em><strong>One who contacts and controls the spirits of the dead</strong></em><br>
-The Danoran industrial revolution has changed the ways of war, giving even the poorest man weapons that can kill the wealthy and wellequipped. Why then should not matters of the soul also move from the purview of the enlightened into the grasp of the common people? So ask spirit mediums, who wish to explain the mysteries of spirits and the afterlife so that men no longer need priests to tell them what awaits beyond death.</p>
+<blockquote>
+<p>One who contacts and controls the spirits of the dead</p>
+</blockquote>
+<p>The Danoran industrial revolution has changed the ways of war, giving even the poorest man weapons that can kill the wealthy and wellequipped. Why then should not matters of the soul also move from the purview of the enlightened into the grasp of the common people? So ask spirit mediums, who wish to explain the mysteries of spirits and the afterlife so that men no longer need priests to tell them what awaits beyond death.</p>
 <p>Certainly, many mediums are charlatans who prey on the weakness of bereaved aristocrats. But a few have discovered how to contact the dead through a form of psionic meditation called a séance. Some will only use their talents to help those who have a sincere need to know the secrets of the dead, and will only train students who share the same worldview, but most mediums reject such insularity as smacking of organized religion, and will gladly wake the dead for a quick chat at the drop of a few coins.</p>
 <h4 id="playing-a-spirit-medium">Playing a Spirit Medium</h4>
 <p>The ability to speak with the recently departed is of great value to the Royal Homeland Constabulary, which recruits enthusiastically people with useful talents. Compared with the normal life of a medium, criminal investigators seldom have to convey messages between the dead and their living friends and relatives, though such conversations can help elicit otherwise unyielding secrets.</p>
@@ -158,7 +197,9 @@ The Danoran industrial revolution has changed the ways of war, giving even the p
 <p>With your urging, the spirit of a recently dead person will speak briefly with you. You can cast speak with dead. The body must be within three miles of where it died, and must not have died more than a day ago. You do not require a complete body as the ability speaks with the spirit and needs no corporeal connection. You can’t do so again until you finish a long rest.</p>
 <p>At the GM’s discretion, you could also use this power to communicate with uneasy spirits who have not yet moved on, regardless of how long ago they died. Using this power against undead, or in any combat situation for that matter, is possible but very difficult. By expending this power you can force an undead creature you can see to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). If it fails, you may take control of it for one round, as the dominate monster spell. Alternately you can call up the spirit of a creature whose body you can see that died in the past five minutes. It does not receive a save to resist. Its spirit manifests in a space you choose within 25 feet of you, and performs a single action of your choice as if it were still alive, then disappears.</p>
 <h3 id="technologist">Technologist</h3>
-<p><em><strong>Designer of contraptions and devices</strong></em></p>
+<blockquote>
+<p>Designer of contraptions and devices</p>
+</blockquote>
 <p>Some people cannot get enough of new technology. Those with talent tinker or create. Those without collect, study, or simply nag every engineer and inventor they meet. Whether dabblers or professionals, often these technology enthusiasts come up with ideas for devices that straddle the line between clever and impractical.</p>
 <p>In Danor, academies train technologists in specialized fields, while in Drakr master dwarven craftsmen guide huge stables of apprentices in the massive engineering projects. Crisillyir punishes such tinkering with holy flagellation, and eladrin are as unsettled by technology as are the denizens of the Dreaming. A few enterprising technologists in Ber curry favor of the royal court, which responds eagerly to such intellectual pursuits.</p>
 <h4 id="playing-a-technologist">Playing a Technologist</h4>
@@ -171,14 +212,16 @@ The Danoran industrial revolution has changed the ways of war, giving even the p
 <p>If reduced to 0 hit points, the contraption is automatically deactivated and you must spend an hour making repairs before you can activate it again. Replacing a lost contraption costs 10 gp and takes eight hours at a properly furnished workshop.</p>
 <p>At 5th level you can spend 100 gp to craft a contraption in the shape of a Medium or smaller animal the larger the a weapon that can be integrated into its body.</p>
 <h3 id="vekeshi-mystic">Vekeshi Mystic</h3>
-<p><em><strong>Devotee of the philosophy of slow, proper vengeance against those who oppress the weak</strong></em></p>
+<blockquote>
+<p>Devotee of the philosophy of slow, proper vengeance against those who oppress the weak</p>
+</blockquote>
 <p>If fatalism defines the traditional dwarven philosophy, then the cornerstone of eladrin ideology is that living well is the best revenge.</p>
 <p>After the goddess Srasama died and nearly all eladrin women perished with her, there was a great drive in Elfaivar to fight until the last man in a short-sighted bid for vengeance. As the rest of the nation whipped itself into a frenzy, however, a composer named Vekesh wrote a song of mourning that contained a simple sentiment: defeat is only tragedy if we choose to let the story end.</p>
 <p>While many eladrins could not be stopped from their self-destruction, Vekesh convinced some of his people that a tale that goes from defeat to revenge to death is a shameful tragedy. Revenge serves only to distract from one’s grief, but is ultimately valueless. Instead, he said, a tale of defeat, resilience, and renewal is the best way to thwart their enemies’ goals.</p>
 <p>The proper form of retribution, then, is to endure, rebuild from weakness, and prosper into strength.</p>
 <p>His guidance ensured that in at least a few isolated enclaves, the eladrin race pulled back from the brink of annihilation. In the following decades a loosely codified collection of vekeshi teachings spread throughout Lanjyr. The mantras of Vekesh have helped many cope with loss and find a new path for themselves.</p>
 <p>To the general public, though, ‘vekeshi’ is synonymous with murderer and terrorist. While the majority of vekeshi avoid violence when possible, Vekesh believed that taking up arms is sometimes necessary to protect those at their most vulnerable. The deepest secrets of vekeshi mysticism are taught only to a rare few adherents who demonstrate a skill for battle, and the wisdom to know when to use their power.</p>
-<h4 id="playing-a-vekeshi-mystic.">Playing a Vekeshi Mystic.</h4>
+<h4 id="playing-a-vekeshi-mystic">Playing a Vekeshi Mystic</h4>
 <p>Anyone might casually study Vekesh’s teachings for a bit of personal guidance, but to be initiated into the mystical side of the philosophy requires painful rituals. Aspirants are taken in the night across the threshold of the Dreaming, where they experience the fall of Srasama through psychic illusions, making them keepers of the shared memory of the Great Malice. Thereafter they are held in a cage for days, along with poisoned food that they must resist, so that the starvation teaches them the importance of patience. Finally, they are burnt until their skin blackens, and then are magically healed to seal in the power of the flames.</p>
 <p>If a vekeshi passes these trials, he rests and recovers in luxury as his teachers instruct him in the secrets of the philosophy, and drill into him the necessity of discretion. Upon leaving the Dreaming, vekeshi mystics return to their normal lives, but seek positions of power in military, law enforcement, or the underworld, where they use their authority to punish those who continually threaten people who are simply trying to make a better life for themselves.</p>
 <p>Vekeshi mystics seldom gather in large groups, but on certain irregular lunar holidays they slip into the Dreaming for secretive festivals. Only on the rarest occasions will a mystic be called to act openly. Donning an iconic mantle of eladrin armor and a mask that conceals his face, the mystic acts as the surrogate hand of the fallen goddess Srasama, with the sole purpose of meting out punishment against one directly responsible for large-scale suffering.</p>
@@ -187,8 +230,10 @@ The Danoran industrial revolution has changed the ways of war, giving even the p
 <p>In battle, a vestige of the power of Srasama waits to punish those who harm your allies. When an enemy you’re aware of deals damage to one of your allies, as a reaction you can deal 1d4 radiant damage to the enemy who made the attack. That enemy sees a faint burning outline of a six-armed goddess hovering behind you, which then lashes out in retaliation with blades of fire. You cannot use this power twice against the same creature in the same encounter. After you use this power six times, you must take a long rest before you can use it again.</p>
 <p>At 5th level, the damage increases to 1d4 radiant and 1d4 fire. At 11th level, the enemy also catches on fire and takes 1d4 fire damage each round until it spends an action to make a DC 10 Dexterity check to put the fire out. At 17th level, using this ability does not require spending your reaction</p>
 <h3 id="yerasol-veteran">Yerasol Veteran</h3>
-<p><em><strong>Highly Regarded naval war hero</strong></em><br>
-The islands of the Yerasol Archipelago were perhaps the most verdant, beautiful battleground in history. During two centuries of intermittent warfare, untold thousands of soldiers from Risur and Danor died among the windblown rainforests and flowered beaches of those isles, trying to protect their homelands’ exceedingly prosperous plantations. Those who survived — the ones who didn’t succumb to aberrant infections, crippling physical injuries, or unyielding mental trauma — often turned their war-time glory into profit or political clout.</p>
+<blockquote>
+<p>Highly Regarded naval war hero</p>
+</blockquote>
+<p>The islands of the Yerasol Archipelago were perhaps the most verdant, beautiful battleground in history. During two centuries of intermittent warfare, untold thousands of soldiers from Risur and Danor died among the windblown rainforests and flowered beaches of those isles, trying to protect their homelands’ exceedingly prosperous plantations. Those who survived — the ones who didn’t succumb to aberrant infections, crippling physical injuries, or unyielding mental trauma — often turned their war-time glory into profit or political clout.</p>
 <p>Poets of the two nations have memorialized, and sometimes sensationalized, the greatest acts of heroism from the Four Yerasol Wars, the last of which ended seven years past. It’s an open secret that history is written by the survivors, and many so-called war heroes were merely lucky enough to witness something brave and amazing, and not die in the process so they could take the credit for themselves. A rare few, however, demonstrated genuine heroism and lived to have their tales told by others.</p>
 <h4 id="playing-a-yerasol-veteran">Playing a Yerasol Veteran</h4>
 <p>Everyone knows the names of a few veterans who distinguished themselves in battle — not quite famous, but certainly memorable. Every veteran of the isles has a story that made him a celebrity, though many do not enjoy recounting their tales. The fact that everyone likes a war hero doesn’t lessen the trauma of having seen friends die.</p>
@@ -301,8 +346,8 @@ The islands of the Yerasol Archipelago were perhaps the most verdant, beautiful 
 <p>It was Risur’s traditional enemy Danor—bereft of magic after a cataclysm five centuries past—which began the industrial revolution. Their steam-powered ships and deadly cannon fusillades won them many battles, but the artificers of Flint are combining magic and industry in ways impossible for their enemies, and the tiefling oligarchy of Danor seems content with the land it has acquired. Many of the other great nations, however, fear what Risur can achieve with the marriage of magic and technology, and King Aodhan of Risur worries they might try to disrupt his nation’s safety and prosperity.</p>
 <p>Elsewhere, the dwarven homeland Drakr preaches of a nihilist doomsday and sells technomantic arms and war machines to warlords and mercenaries across the land. The clergy of theocratic Crisillyir loathe Danor and its tiefling leaders, and they wield piety as a lash to inflame distrust of what they claim is a godless abomination. Just across a mountain border to Risur’s south, the warlike clans of Ber have formed an alliance, which might signal a coming invasion. Even in distant Elfaivar, where the small Risuri colony named Kellandia struggles against settlers from other nations to claim the broken empire’s bounty, the natives lash out at these interlopers, unable to forgive a centuries-old grievance still fresh in their long-lived hearts.</p>
 <h3 id="risur">Risur</h3>
-<p><img src="https://www.dropbox.com/s/qtspa3l2mwq25e8/flagRisur.PNG?raw=1" alt="Flag of Risur"><br>
-Every Risuri child knows that before King Kelland, no human nation had ever endured more than a few years in Lanjyr. The mighty nature spirits known today as the fey titans only allowed the elves to walk their domain, and they terrorized all others with beasts and storms and blight. But in 1200 b.o.v. (Before Our Victory), Kelland subdued the lord spirits of field and forest, of marsh and mountain. With their grudging blessings, he established Risur.</p>
+<p><img src="https://www.dropbox.com/s/qtspa3l2mwq25e8/flagRisur.PNG?raw=1" alt="Flag of Risur"></p>
+<p>Every Risuri child knows that before King Kelland, no human nation had ever endured more than a few years in Lanjyr. The mighty nature spirits known today as the fey titans only allowed the elves to walk their domain, and they terrorized all others with beasts and storms and blight. But in 1200 b.o.v. (Before Our Victory), Kelland subdued the lord spirits of field and forest, of marsh and mountain. With their grudging blessings, he established Risur.</p>
 <p>The people of Risur offered the spirits tithing and tribute, and eventually lulled them to sleep. What were once uncharted wilds of fierce beasts and tiny enclaves of elves became a prosperous bastion of humanity. In the seventeen centuries since, Risur’s rites of rulership have ensured that Kelland’s crown only passes to those mighty enough to cow the land’s primal spirits should they ever seek to reclaim their domain.</p>
 <h4 id="land-and-culture">Land and Culture</h4>
 <p>Risur is a subtropical country, possessed of vast forests and fertile fields fed by hundreds of rivers and streams which flow from the southern Anthras Mountains to the northern shore of the Avery Sea. Temperatures are warm but comfortable year-round, though a rainy season strikes near the end of what the northern nations consider summer.</p>
@@ -356,8 +401,8 @@ Every Risuri child knows that before King Kelland, no human nation had ever endu
 <p>After his kingdom was established, Triegenes undertook the greatest challenge left in the mortal world: to defeat the Demonocracy that oppressed the lands to the east. He confronted the abyssal lords who had taken residence on this world, sacrificed himself to banish them forever, and then left his mortal shell and ascended to godhood.</p>
 <p>The Clergy believe in many gods, with no pinnacle godhead, but they preach foremost the teachings of Triegenes, that every man has greatness within him, and he merely needs to be challenged to awaken his potential. And while a thousand years have burdened this original message with a complex celestial bureaucracy, vaguely-interpreted visions of a multiverse of planes, and a strong emphasis on the superior potential of humans above all other races, the simple dogma that anyone can improve their life, and that indeed this is the main purpose of life, holds strong appeal. The Clergy is now the most widespread faith in Lanjyr.</p>
 <h3 id="danor">Danor</h3>
-<p><img src="https://www.dropbox.com/s/o6togygbn6061jo/flagDanor.PNG?raw=1" alt="Flag_of_Danor"><br>
-Guided by a congress of businessmen and scholars, Danor is devoted to endless progress. Old beliefs, especially religion, are cast aside in the face of newer and more profitable ideas. After surviving an apocalyptic collapse five hundred years ago, reason and hard work have created armies more powerful than any in the world, where a common man can wield weapons as mighty as the magic of legendary heroes. After centuries of complacency, the other great nations eye Danor with envy, and with fear.</p>
+<p><img src="https://www.dropbox.com/s/o6togygbn6061jo/flagDanor.PNG?raw=1" alt="Flag_of_Danor"></p>
+<p>Guided by a congress of businessmen and scholars, Danor is devoted to endless progress. Old beliefs, especially religion, are cast aside in the face of newer and more profitable ideas. After surviving an apocalyptic collapse five hundred years ago, reason and hard work have created armies more powerful than any in the world, where a common man can wield weapons as mighty as the magic of legendary heroes. After centuries of complacency, the other great nations eye Danor with envy, and with fear.</p>
 <p>Following the Second Victory, the social order in old Danor was upended. The Great Malice left the capital of the Clergy bereft of magic. Horrible monsters that spawned in the border regions of wild magic wrought havoc as quavering holy warriors struggled to destroy them without their divine aid. The whole country was cut off from its usual channels of communication, and in a matter of weeks, thousands of priests killed themselves, believing their gods had died, and many more fled in every direction. A once-mighty nation fractured into desperate enclaves, and the old capitol was abandoned as an accursed place.</p>
 <p>A major contributor to the region’s downfall was that its previous leaders—the hierarchs of the Clergy — had been transformed by the Great Malice into seemingly demonic creatures with horns and barbed tails. People in what today are the Malice Lands refused to let these people reach the new capital in Crisillyir, believing the old rulers were “from the deep pit of hell,” and thus dubbed them “deeplings” or “tieflings.”</p>
 <p>After decades of chaos, a tiefling named Jierre who had once been a priest near the top of the sacred hierarchy gathered the fractious leaders and managed to convince them in the span of a mere five years to reunite under a new vision. If the hands of the gods could no longer reach into Danor, then it would be the hands of mortals that would give them power and safety.</p>
@@ -369,8 +414,8 @@ Guided by a congress of businessmen and scholars, Danor is devoted to endless pr
 <p>The dwarven clans and fractured human provinces that survived the collapse of the kingdom of Triegenes created a loose federation that has grown ever more united. Regional governors, mostly human, handle normal farming and trade, while dwarven lords direct grand mining operations and command the nation’s army and navy.</p>
 <p>Once again the nation has grown fond of towers, not just as symbols of power but as strongholds against intermittent waves of monstrous incursions from the Malice Lands. Dark magic is not precisely endorsed, but it is tolerated as a necessary evil for the nation’s defense. Criminals convicted of any great crime vanish into mountain prisons to serve in hellish mines, until the day they are sacrificed to empower a magical ward or weapon.</p>
 <h3 id="elfaivar">Elfaivar</h3>
-<p><img src="https://www.dropbox.com/s/wuj35i48yq4b1i7/flagElfaivar.jpg?raw=1" alt="Flag of Elfaivar"><br>
-Before the Great Malice, the kings of Elfaivar held power to rival all the other nations of Lanjyr. Commanding legions of slave armies from the far east and fielding battalions of fey mages and monsters, the long-lived eladrin monarchs were able to ensure the security and prosperity of the mightiest nation in the world.</p>
+<p><img src="https://www.dropbox.com/s/wuj35i48yq4b1i7/flagElfaivar.jpg?raw=1" alt="Flag of Elfaivar"></p>
+<p>Before the Great Malice, the kings of Elfaivar held power to rival all the other nations of Lanjyr. Commanding legions of slave armies from the far east and fielding battalions of fey mages and monsters, the long-lived eladrin monarchs were able to ensure the security and prosperity of the mightiest nation in the world.</p>
 <p>Today, only ruins survive.</p>
 <p>The Great Malice slew every eladrin woman in the empire and beyond, with only the rarest and most unlikely survivors: women currently polymorphed, on other planes, or who had forsaken the Elfaivaran faith entirely. Within weeks the once-glorious empire, which had been poised to crush the impudent Clergy who had twice launched a holy war against it, descended into chaos. Within decades the population had collapsed to the tiniest sliver of its original number.</p>
 <p>A stirring eulogy of the poet Vekesh convinced a few eladrin to seek harmony, to endure, and to prosper — and above all else, to find and free eladrin women from bondage so the race could heal. But for millions of grief-stricken eladrin men, the aftermath of the Great Malice was a time of constant battle.</p>
